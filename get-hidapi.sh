@@ -5,5 +5,5 @@ then
     cd hidapi
     git pull
 else
-    git clone https://github.com/signal11/hidapi.git
+    git clone https://github.com/mrpippy/hidapi.git -b iokit_path
 fi
